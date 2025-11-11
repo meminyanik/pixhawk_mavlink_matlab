@@ -1,4 +1,4 @@
-# pixhawk_mavlink_matlab
+# Pixhawk Mavlink Capture in Matlab
 This repo has a Matlab script to capture Mavlink messages from the Pixhawk flight controller over Uart and visualize the orientation.
 
 ## Steps
